@@ -1,0 +1,35 @@
+/* the css rest */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.my-photo{
+    width: 240px;
+    height: 240px;
+    border-radius: 100%;
+
+}
+.my-name{
+    color: orangered;
+
+    }
+
+.my-bio{
+    border-top: 100px;
+    border-bottom: 100px;
+    color: gray;
+}
+.link{
+        display: inline-block;
+        background-color: tomato;
+        padding: 12px 16px;
+        border-radius: 20px;
+        margin-top: 10px;
+        text-decoration: none;
+        color: white;
+    }
+    
